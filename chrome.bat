@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" -no-sandbox -disable-web-security --allow-running-insecure-content --user-data-dir
